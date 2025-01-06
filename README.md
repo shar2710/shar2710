@@ -2,6 +2,10 @@
 <h3 align="center" style="color: #00FFFF;">A Passionate Web Developer from India</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3ohhwzyPbiXZv8mGzC/giphy.gif" alt="Neo Tokyo Theme GIF" width="500" />
+</p>
+
+<p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=shar2710" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=shar2710&margin-w=15&margin-h=15&theme=radical" alt="GitHub Profile Trophy" />
   </a>
