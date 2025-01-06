@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #00FFFF;">A Passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwzyPbiXZv8mGzC/giphy.gif" alt="Neo Tokyo Theme GIF" width="500" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F240379698838371335%2F&psig=AOvVaw0rmtlcOXj8dvbGZNzc7Vxy&ust=1736264246788000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjZ_L-24YoDFQAAAAAdAAAAABAE" alt="Neo Tokyo Theme GIF" width="500" />
 </p>
 
 <p align="center">
