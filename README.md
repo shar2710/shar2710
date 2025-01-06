@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sejal Sharma</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<h1 align="center" style="color: #00FF00;">Hi 👋, I'm Sejal Sharma</h1>
+<h3 align="center" style="color: #00FFFF;">A Passionate Web Developer from India</h3>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=shar2710" target="_blank">
@@ -10,7 +10,7 @@
 ---
 
 ### 🌱 About Me
-🌐 **I’m currently learning**: **Full Stack Web Development**
+- 🌐 **I’m currently learning**: **Full Stack Web Development**
 ---
 
 ### 🛠️ Languages & Tools
@@ -42,7 +42,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
   </a>
-  <!-- Add more tools and technologies as needed -->
 </p>
 
 ---
@@ -59,15 +58,16 @@
 </p>
 
 ---
-<!--
-### 💼 Holopin Badges
-[![An image of @shar2710's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shar2710)](https://holopin.io/@shar2710)
 
----
--->
 ### 🚀 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/sejal-s-1b349628a" target="_blank">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://shar2710.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
