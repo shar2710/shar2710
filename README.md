@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shar2710&show_icons=true&locale=en" alt="shar2710" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shar2710&" alt="shar2710" /></p>
+<p><img align="center" src="![shar2710's Stats](https://github-readme-stats.vercel.app/api?username=shar2710&theme=dracula&show_icons=true&hide_border=false&count_private=true)" alt="shar2710" /></p>
