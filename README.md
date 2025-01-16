@@ -1,5 +1,5 @@
-<h1>hey! i'm sejal sharma</h1>
-<p>a passionate web developer</p>
+<h1 align="center">hey! i'm sejal sharma</h1>
+<p align="center">a passionate web developer</p>
 
 i’m currently learning **Full Stack Web Development**
 
