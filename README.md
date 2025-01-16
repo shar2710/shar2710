@@ -47,3 +47,5 @@ i’m currently learning **Full Stack Web Development**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shar2710&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="shar2710" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shar2710" alt="shar2710" /></a></p>
+
+<p><img align="center" src="https://github.com/shar2710/shar2710/blob/main/giphy.gif"></p>
