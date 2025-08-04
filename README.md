@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello">
  I'm Sejal Sharma<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100"></h1>
+🏫 Computer Science and Engineering | Junior@NIT Hamirpur
 ⚙️ I’m currently learning Full Stack Web Development <br>
 🎉 I love my bluish-green hair.
 
